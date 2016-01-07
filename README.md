@@ -5,9 +5,9 @@
 `<link href="m3-style.css" rel="stylesheet">`  
 htmlでCSSを読み込んでください。
 その後、  
-    <div class="small bold">
+`<div class="small bold">
         本文
-    </div>  
+</div>`  
 のように使用してください。
 CSSの種類はソースコードを参照してください。
 
