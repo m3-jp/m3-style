@@ -100,7 +100,7 @@
   width: 50%;
 }
 .w75{
-  width: 50%;
+  width: 75%;
 }
 .w100{
   width: 100%;
@@ -131,10 +131,4 @@
 }
 .mb20{
   margin-bottom: 20px;
-}
-.btn{
-  background: #eee;
-  padding: 10px 20px;
-  border: none;
-  cursor: pointer;
 }
